@@ -9,8 +9,9 @@ The AkhiRed application will accept the input from the user, analyze the sentime
 
 ## By 
 ## R Akhilandeshwari
-## www.linkedin.com/in/ramu-akhilandeshwari-90426214a
+### www.linkedin.com/in/ramu-akhilandeshwari-90426214a
 
-![image](https://user-images.githubusercontent.com/77384653/140983801-09735755-5507-4cc9-afc8-c44f40ce2d92.png)
-![image](https://user-images.githubusercontent.com/77384653/140983945-bf237b53-0210-4254-a22c-c10451deab99.png)
+![image](https://user-images.githubusercontent.com/77384653/141009745-51f10f69-7577-433e-92af-81ec091de29b.png)
+![image](https://user-images.githubusercontent.com/77384653/141009873-972984d6-d9de-4cb4-82df-7f085bda2f72.png)
+
 
